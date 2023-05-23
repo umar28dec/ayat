@@ -1,0 +1,25 @@
+{
+  "name": "ayat",
+  "version": "1.0.0",
+  "description": "### Usage",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umar28dec/ayat.git"
+  },
+  "keywords": [],
+  "author": "Umar farooque Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umar28dec/ayat/issues"
+  },
+  "homepage": "https://github.com/umar28dec/ayat#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
