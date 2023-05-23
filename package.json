@@ -21,5 +21,8 @@
   "homepage": "https://github.com/umar28dec/ayat#readme",
   "dependencies": {
     "typescript": "^5.0.4"
-  }
+  },
+  "files": [
+    "lib/**/*"
+  ]
 }
